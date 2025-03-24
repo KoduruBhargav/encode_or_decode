@@ -1,8 +1,8 @@
-Caesar Cipher Project
+Caesar Cipher Project:
 
 This is a simple Python implementation of a Caesar Cipher for encrypting and decrypting messages using a basic shift method.
 
-How It Works
+How It Works:
 
 The program asks the user whether they want to encode (encrypt) or decode (decrypt) a message.
 
